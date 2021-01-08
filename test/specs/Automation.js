@@ -10,7 +10,7 @@ describe('Log in on webmail seznam.cz', () => {
         browser.url('https://www.seznam.cz/')
     })
     
-    it('sign in and sign out', () => {
+    it('sign in and sign out from main page', () => {
         let username = 'webdriverio'
         let passwordNumber = 'automation'
         signIn.firstName.setValue(username)
