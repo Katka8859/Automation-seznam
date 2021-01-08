@@ -6,7 +6,7 @@
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Instalace 
-`git clone https://github.com/Katka8859/Automation-seznam`
+`git clone https://github.com/Katka8859/Automation-seznam.git`
 V daném adresáři spustit `npm install` 
    
 
