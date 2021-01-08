@@ -5,7 +5,7 @@ const email = require('../pageobjects/sendEmail');
 
 
 
-describe('Log in on webmail seznam.cz', () => {
+describe('Log in to webmail seznam.cz', () => {
     before(()=>{
         browser.url('https://www.seznam.cz/')
     })
